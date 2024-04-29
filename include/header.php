@@ -1,0 +1,99 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary main-nav-wrapper">
+    <div class="container bg_navbar d-flex justify">
+        <a class="navbar-brand" href="./">
+            <img src="./images/logo.png" class="nav_logo" alt="image" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+                <img src="./images/hamburger.svg" class="img-fluid" width="80" height="80" alt="image">
+            </span>
+        </button>
+        <div class="collapse navbar-collapse flex justify-content-between nav2" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto align-items-center gap-3 mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="./about-us">About Us</a>
+                </li>
+                <li class="nav-item custom-submenu">
+                    <!-- <a class="nav-link" href="#">Services</a> -->
+                    <div id="nav" class="custom-submenu-child">
+                        <a class="dropdown-toggle services-drop menu-toggle " href="./services">Services</a>
+                        <div class="dropdown-toggle menu-toggle d-block d-md-none">Services</div>
+                        <ul class="dropdown secondry-navs">
+                            <div class="close-icon">
+                                <i class="fa-solid fa-xmark menu-toggle"></i>
+                            </div>
+                            <div class="row align-items-center">
+                                <div class="col-md-4">
+                                    <ul class="drop-inner-list ">
+                                        <li><a href="./mobile-app-development"><img src="./images/menu-icons/android-01.png" class="me-3" alt="image"> Mobile App Development</a></li>
+                                        <li><a href="./web-development"><img src="./images/menu-icons/react-01.png" class="me-3" alt="image"> Web Development</a></li>
+                                        <li><a href="./game-development"><img src="./images/menu-icons/flutter-01.png" class="me-3" alt="image">Game Development</a></li>
+                                        <li><a href="./blockchain-development"><img src="./images/menu-icons/blockchain-01.png" class="me-3" alt="image"> Blockchain Development</a></li>
+                                        <li><a href="./creative-branding"><img src="./images/menu-icons/custom-01.png" class="me-3" alt="image">Creative Branding</a></li>
+                                        <li><a href="./augmented-reality"><img src="./images/menu-icons/ui ux-01.png" class="me-3" alt="image">Augmented Reality</a></li>
+                                        <li><a href="./digital-marketing"><img src="./images/menu-icons/web-01.png" class="me-3" alt="image">Digital Marketing</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="drop-inner-list drop-inner-2">
+                                        <li><a href="./cloud-computing"><img src="./images/menu-icons/cloud-01.png" class="me-3" alt="image"> Cloud Computing</a></li>
+                                        <li><a href="./virtual-reality"><img src="./images/menu-icons/vr-01.png" class="me-3" alt="image"> Virtual Reality</a></li>
+                                        <li><a href="./iot-app-development-service"><img src="./images/menu-icons/IOT-01 1.png" class="me-3" alt="image"> IoT App Development</a></li>
+                                        <li><a href="./frontend-development"><img src="./images/menu-icons/front end-01.png" class="me-3" alt="image"> Front End Development</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="dropdown-video-wrap d-none d-md-block">
+                                        <img src="./images/dropdown-img.png" class="img-fluid" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./portfolio">Portfolio</a>
+                </li>
+                <li class="nav-item custom-submenu">
+                    <!-- <a class="nav-link" href="#">Services</a> -->
+                    <div id="nav" class="custom-submenu-child">
+                        <a class="dropdown-toggle services-drop menu-toggle " href="javascript:;">Resources</a>
+                        <div class="dropdown-toggle menu-toggle d-block d-md-none">Resources</div>
+                        <ul class="dropdown secondry-navs">
+                            <div class="close-icon">
+                                <i class="fa-solid fa-xmark menu-toggle"></i>
+                            </div>
+                            <div class="row align-items-center">
+                                <div class="col-md-4">
+                                    <ul class="drop-inner-list ">
+                                        <li><a href="https://diginsy.com/blog/"><img src="./images/menu-icons/android-01.png" class="me-3" alt="image">Blog</a></li>
+                                    </ul>
+                                </div>
+                                <!-- <div class="col-md-4">
+                                    <ul class="drop-inner-list drop-inner-2">
+                                        <li><a href=""><img src="./images/menu-icons/cloud-01.png" class="me-3" alt="image"> Cloud Computing</a></li>
+                                        <li><a href=""><img src="./images/menu-icons/vr-01.png" class="me-3" alt="image"> Virtual Reality</a></li>
+                                        <li><a href=""><img src="./images/menu-icons/ar-01.png" class="me-3" alt="image"> Augmented Reality</a></li>
+                                        <li><a href=""><img src="./images/menu-icons/IOT-01 1.png" class="me-3" alt="image"> IoT App Development</a></li>
+                                        <li><a href=""><img src="./images/menu-icons/front end-01.png" class="me-3" alt="image"> Front End Development</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="dropdown-video-wrap d-none d-md-block">
+                                        <img src="./images/dropdown-img.png" class="img-fluid" alt="image">
+                                    </div>
+                                </div> -->
+                            </div>
+                        </ul>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./contact">Contact Us</a>
+                </li>
+            </ul>
+            <a href="./contact"  class="quote-btn orange_btn_hover border-0  fw-semibold text-light orange_bg">
+                Get a Quote
+            </a>
+        </div>
+    </div>
+</nav>
