@@ -735,6 +735,9 @@ body {
 .portfolio-slide-3 {
   background-image: url(../images/home/slider/portfolio-app-3.webp);
 }
+.portfolio-slide-1.food-ninja-cover-img.first-cover-img {
+  margin-bottom: 51px;
+}
 .mad-portfolio-sec {
   margin-left: 287px;
 }

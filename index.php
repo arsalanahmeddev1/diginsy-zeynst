@@ -2,13 +2,11 @@
 $pageTitle = "Custom Application Development Company In USA - Diginsy";
 $pageDescription = "Experience top-notch application development services in USA with Diginsy, that empower businesses with cutting-edge solutions to drive growth and success.";
 include "include/head.php"; ?>
-
 <body>
   <section class="pt-lg-3 pt-0 banner_bg_color">
     <?php include "include/header.php"; ?>
     <div class="mt-md-5 mt-0 pt-5  position-relative container mx-auto row g-0 flex-lg-row flex-column-reverse justify-content-between banner_content">
       <img loading="lazy" src="./images/down.webp" class="arrow" alt="Down Arrow" />
-
       <div class="col-lg-7 text-lg-start text-center mt-lg-0 mt-0">
         <h1 class="banner_head fw-medium">
           Growing <br />
@@ -32,8 +30,8 @@ include "include/head.php"; ?>
     </div>
   </section>
   <section class="about pt-5 container">
-    <h3 class="orange_text big_para">About Diginsy?</h3>
-    <h2 class="fw-medium">
+    <h2 class="orange_text big_para">About Diginsy?</h2>
+    <h3 class="fw-medium">
       Innovation thrives here, <br class="d-lg-none d-block" />
       <span>
         where technology powers
@@ -41,7 +39,7 @@ include "include/head.php"; ?>
       <br />
       our purpose and propels us forward, defining our commitment to
       excellence.
-    </h2>
+    </h3>
     <p class="pt-4 big_para black_text pb-4">
       Diginsy is a disruptive mobile app development company
       <span class="orange_text fw-medium">
@@ -211,10 +209,7 @@ include "include/head.php"; ?>
                   <p class="m-0 text-white hover-underline-animation pe-4 fs-24">
                     View Case Study
                   </p>
-                  <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <rect width="59" height="60" rx="29.5" transform="matrix(-1 0 0 1 60 0)" fill="#EDEDED" />
-                    <path d="M43 30H18M43 30L32.2857 19M43 30L32.2857 41" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
-                  </svg>
+                 <img src="./images/playbtn.svg" alt="">
                 </button>
               </div>
               <img loading="lazy" src="./images/web-dev/wd-slide-1-pizza.webp" class="position-absolute pizza-img" alt="image">
@@ -244,7 +239,6 @@ include "include/head.php"; ?>
         </div>
       </div>
   </section>
-
   <section class="services faq_sec container mb-5">
     <div class="content">
       <h2 class="sec_head fw-medium">

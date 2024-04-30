@@ -45,23 +45,24 @@ include "include/head.php"; ?>
                 mechanical headways, better approaches for executing the innovation, and changes in digital money resource costs. Our application
                 means to give clients fast admittance to news that intrigues them in the realm of digital forms of money. Furthermore, we need to
                 empower them to offer their viewpoints in the remarks segment, as well as trade thoughts with other local area individuals”</p>
-            <div class="portfolio-slide-1 food-ninja-cover-img portfolio-page portfolio-slide-props position-relative">
-                <div class="row position-relative z-2">
-                    <div class="offset-1 col-md-4">
-                        <div class="portfolio_box foodninja-cover custom">
-                            <div class="food-ninja-logo">
-                                <img loading="lazy" src="./images/portfolio/inner/secondrry-logo.webp" alt="image">
-                            </div>
-                            <h3 class="hd-gradiant">FoodNinja</h3>
-                            <h6 class="hd-ssm mb-30">Deliever Favorite Food</h6>
-                            <h4 class="fw-semibold fs-70">Food Ninja <br> Mobile App</h4>
-                            <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
-                                <img loading="lazy" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
-                                <img loading="lazy" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
+            <a href="./mobile-app-case-study" class="text-decoration-none">
+                <div class="portfolio-slide-1 food-ninja-cover-img first-cover-img  portfolio-page portfolio-slide-props position-relative">
+                    <div class="row position-relative z-2">
+                        <div class="offset-1 col-md-4">
+                            <div class="portfolio_box foodninja-cover custom">
+                                <div class="food-ninja-logo">
+                                    <img loading="lazy" src="./images/portfolio/inner/secondrry-logo.webp" alt="image">
+                                </div>
+                                <h3 class="hd-gradiant">FoodNinja</h3>
+                                <h6 class="hd-ssm mb-30">Deliever Favorite Food</h6>
+                                <h4 class="fw-semibold fs-70">Food Ninja <br> Mobile App</h4>
+                                <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
+                                    <img loading="lazy" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
+                                    <img loading="lazy" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- <div class="col-md-7 max-w-807">
+                        <!-- <div class="col-md-7 max-w-807">
                         <div class="slide-content-1-right-content slide-content-all">
                             <button class="portfolio_btn d-flex gap-2 w-100 align-items-center">
                                 <p class="m-0 text-white hover-underline-animation pe-4">
@@ -74,9 +75,10 @@ include "include/head.php"; ?>
                             </button>
                         </div>
                     </div> -->
+                    </div>
+                    <div class="main-portfolio-overlay"></div>
                 </div>
-                <div class="main-portfolio-overlay"></div>
-            </div>
+            </a>
             <div class="mb-3 portfolio-gradient   portdolio-bg-green py-5 radius-20">
                 <div class="row align-items-center justify-content-md-evenly justify-content-center">
                     <div class="portfolio-rate-download text-center col-md-3">

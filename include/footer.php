@@ -78,7 +78,7 @@
   <p class="text-light m-0">© 2024 Diginsy. All Rights Reserved.</p>
 </div>
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/44217527.js"></script>
-<script src="./vendor/vendor.js"></script>
+<script src="./vendor/vendor.js?=1"></script>
 </body>
 
 </html>
