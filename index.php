@@ -146,7 +146,7 @@ include "include/head.php"; ?>
               <div class="offset-1 col-md-4">
                 <div class="portfolio_box foodninja-cover custom">
                   <div class="food-ninja-logo">
-                    <img loading="lazy" src="./images/finance-case-study/finance-logo.png" alt="image" style="max-width: 100px;">
+                    <img loading="lazy" src="./images/finance-case-study/finance-logo.webp" alt="image" style="max-width: 100px;">
                   </div>
                   <h4 class="fw-semibold fs-70">Finance <br> Mobile App</h4>
                   <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
@@ -209,7 +209,10 @@ include "include/head.php"; ?>
                   <p class="m-0 text-white hover-underline-animation pe-4 fs-24">
                     View Case Study
                   </p>
-                 <img src="./images/playbtn.svg" alt="">
+                  <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="59" height="60" rx="29.5" transform="matrix(-1 0 0 1 60 0)" fill="#EDEDED" />
+                    <path d="M43 30H18M43 30L32.2857 19M43 30L32.2857 41" stroke="#222222" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
                 </button>
               </div>
               <img loading="lazy" src="./images/web-dev/wd-slide-1-pizza.webp" class="position-absolute pizza-img" alt="image">

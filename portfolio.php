@@ -2,16 +2,16 @@
 $pageTitle = "Portfolio - Diginsy";
 $pageDescription = "HOW TO MAKE YOUR E-COMMERCE STORE STAND OUTHow A Good UI/UX Design Can Help You To Grow Your Business In 2023Know How Website Designs Can Boost Your Business";
 include "include/head.php"; ?>
-<section class="pt-lg-3 pb-lg-0 pb-3 pt-0 banner_bg_color px-lg-0 px-2 inner-banner-bg">
+<section class="pt-lg-3 pb-lg-0 pb-3 pt-0 banner_bg_color px-lg-0 px-2 inner-banner-bg portdolio-banner">
     <?php include "include/header.php"; ?>
 
     <div class="mt-5 pt-5 position-relative container mx-auto row g-0 flex-lg-row flex-column-reverse justify-content-between banner_content px-lg-0 px-2">
         <img loading="lazy" src="./images/down.webp" class="arrow" alt="Down Arrow" />
 
         <div class="col-lg-7 text-lg-start text-center mt-lg-0 mt-5">
-            <h1 class="banner_head fw-medium">
-                We Make Significant <br />
-                <span>Advanced</span> Encounters <br />
+            <h1 class="banner_head fw-medium portfolio-main-hd">
+                We Make Significant 
+                <span>Advanced</span> Encounters 
                 From Item To <span>Process.</span>
             </h1>
             <p class="big_para fw-medium">
@@ -25,7 +25,7 @@ include "include/head.php"; ?>
             </button>
         </div>
         <div class="col-lg-5 position-relative">
-            <img loading="lazy" src="./images/portfolio/girl.webp" class="img-fluid position-relative z-3" alt="image" />
+            <img loading="lazy" src="./images/portfolio/girl.webp" class="img-fluid position-relative z-3 d-none d-md-block" alt="image" />
             <img loading="lazy" src="./images/portfolio/curved.webp" class="position-absolute z-1 circle_banner move-left-right" alt="image" />
             <img loading="lazy" src="./images/home/orange_circle.webp" class="position-absolute z-2 orange_circle2 d-lg-block d-none zoom-in-out" alt="image" />
             <img loading="lazy" src="./images/home/orange_box.webp" class="position-absolute z-2 orange_box2 d-lg-block d-none zoom-in-out" alt="image" />
