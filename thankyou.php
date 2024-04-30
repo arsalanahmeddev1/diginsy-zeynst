@@ -10,7 +10,7 @@ include "include/head.php"; ?>
                 <div class="thankyou-content position-relative d-flex banner_content align-items-center justify-content-center flex-d-column">
                     <img loading="lazy" src="./images/home/orange_circle.webp" class="position-absolute z-2 orange_circle2 d-lg-block d-none zoom-in-out" alt="image">
                     <img loading="lazy" src="./images/home/orange_box.webp" class="position-absolute z-2 orange_box2 d-lg-block d-none zoom-in-out" alt="image">
-                    <img loading="lazy" src="./images/thankyou-mail-img.png" class="thankyou-mail-img" alt="image">
+                    <img loading="lazy" src="./images/thankyou-mail-img.webp" class="thankyou-mail-img" alt="image">
                     <h1 class="banner_head fw-medium text-shadow">
                         Thank you!
                     </h1>

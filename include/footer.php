@@ -1,7 +1,7 @@
 <footer class="container">
   <div class="row gap-lg-2 justify-content-between">
     <div class="col-lg-3 col-sm-6 mt-lg-0 mt-3">
-      <img src="./images/logo.png" class="w-25 pb-4 img-fluid" alt="image" />
+      <img src="./images/logo.webp" class="w-25 pb-4 img-fluid" alt="image" />
 
       <p>
         We are a full-service, high-end design agency providing holistic and transformative digital design services. Curating delightful user experiences, we work with global clients and deliver customized products.

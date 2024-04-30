@@ -516,7 +516,7 @@ body {
   padding-top: 0;
 }
 .inner-banner-bg {
-  background-image: url(../images/inner-banner-bg.png);
+  background-image: url(../images/inner-banner-bg.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -629,7 +629,7 @@ body {
   padding: 0px 34px 80px 25px;
 }
 .mad-experience-sec {
-  background-image: url(../images/inner-banner-bg.png);
+  background-image: url(../images/inner-banner-bg.webp);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -2125,7 +2125,6 @@ video::-webkit-media-controls-enclosure {
   }
   .portfolio-slide-1.food-ninja-cover-img {
     height: 700px;
-    margin-bottom: -4px;
     border-radius: 30px;
   }
   .portfolio-slide-1.food-ninja-cover-img .main-portfolio-overlay {
@@ -2273,6 +2272,10 @@ video::-webkit-media-controls-enclosure {
   .flip_image {
     display: none;
   }
+  .portfolio-slide-1.food-ninja-cover-img.first-cover-img {
+    margin-bottom: 0px;
+}
+
 }
 @media (max-width: 575px) {
   .bg-text-light {
@@ -2363,6 +2366,15 @@ video::-webkit-media-controls-enclosure {
   }
   .inner-banner-bg .mt-5 {
     margin-top: 30px !important;
+  }
+  .portfolio-slide-1.food-ninja-cover-img {
+    padding: 3px;
+  }
+  .main-page-portfolio .portfolio-slide-1.food-ninja-cover-img {
+    padding: 30px;
+  }
+  .coffee-been-logo {
+    filter: brightness(100);
   }
 }
 

@@ -111,7 +111,7 @@ include "include/head.php"; ?>
       </div>
     </div>
   </section>
-  <section class="mad-portfolio-sec web-dev-portfolio-sec ">
+  <section class="mad-portfolio-sec web-dev-portfolio-sec main-page-portfolio">
     <div class="container-fluid port-container">
       <h2 class="sec_head fw-medium">
         Our

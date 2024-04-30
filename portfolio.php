@@ -230,7 +230,7 @@ include "include/head.php"; ?>
                         <div class="offset-1 col-md-4">
                             <div class="portfolio_box foodninja-cover custom">
                                 <div class="coffee-been-logo-wrap">
-                                    <img loading="lazy" src="./images/coffeebeen-case-study/coffee-been-logo.webp" alt="image" style="max-width: 200px;">
+                                    <img loading="lazy" class="coffee-been-logo" src="./images/coffeebeen-case-study/coffee-been-logo.webp" alt="image" style="max-width: 200px;">
                                 </div>
                                 <h4 class="fw-semibold fs-70">Coffee Shop <br> Mobile App</h4>
                                 <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
