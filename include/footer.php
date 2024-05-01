@@ -7,13 +7,13 @@
         We are a full-service, high-end design agency providing holistic and transformative digital design services. Curating delightful user experiences, we work with global clients and deliver customized products.
       </p>
       <div class="d-flex align-items-center gap-2 mt-3">
-        <a href="https://www.linkedin.com/company/diginsy"><img src="./images/home/footer/linkedin.svg" alt="image" /></a>
-        <a href="https://www.facebook.com/diginsy"><img src="./images/home/footer/facebook.svg" alt="image" /></a>
-        <a href="https://www.instagram.com/diginsy"><img src="./images/home/footer/instagram.svg" alt="image" /></a>
-        <a href="https://twitter.com/diginsy_agency"><img src="./images/home/footer/twitter.svg" alt="image" /></a>
+        <a href="https://www.linkedin.com/company/diginsy"><img width="35" height="35" src="./images/home/footer/linkedin.svg" alt="image" /></a>
+        <a href="https://www.facebook.com/diginsy"><img width="35" height="35" src="./images/home/footer/facebook.svg" alt="image" /></a>
+        <a href="https://www.instagram.com/diginsy"><img width="35" height="35" src="./images/home/footer/instagram.svg" alt="image" /></a>
+        <a href="https://twitter.com/diginsy_agency"><img width="35" height="35" src="./images/home/footer/twitter.svg" alt="image" /></a>
       </div>
       <div class="d-flex mt-3 mb-3 gap-4 align-items-center">
-        <img src="./images/home/footer/address.svg" alt="image" />
+        <img width="20" height="20" src="./images/home/footer/address.svg" alt="image" />
         <p class="m-0 ws-nowrap">
           <a href="https://maps.app.goo.gl/aWea8EH3xFf1zXQv8" class="text-decoration-none dim-black theme-hover">
             8870 Business Park, Ste 500 <br />
@@ -22,11 +22,11 @@
         </p>
       </div>
       <div class="d-flex mb-3 gap-4 align-items-center">
-        <img src="./images/home/footer/email.svg" alt="image" />
+        <img width="20" height="20" src="./images/home/footer/email.svg" alt="image" />
         <p class="m-0"><a href="mailto:support@diginsy.com" class="dim-black theme-hover text-decoration-none">support@diginsy.com</a></p>
       </div>
       <div class="d-flex gap-4 align-items-center">
-        <img src="./images/home/footer/call.svg" alt="image" />
+        <img width="20" height="20" src="./images/home/footer/call.svg" alt="image" />
         <p class="m-0"><a href="tel:(512) 354-4525" class="text-decoration-none theme-hover dim-black">(512) 354-4525</a></p>
       </div>
     </div>
@@ -78,7 +78,7 @@
   <p class="text-light m-0">© 2024 Diginsy. All Rights Reserved.</p>
 </div>
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/44217527.js"></script>
-<script src="./vendor/vendor.js?=1"></script>
+<script async defer src="./vendor/vendor.js?=1"></script>
 </body>
 
 </html>

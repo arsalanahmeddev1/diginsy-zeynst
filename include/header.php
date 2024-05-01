@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary main-nav-wrapper">
     <div class="container bg_navbar d-flex justify">
         <a class="navbar-brand" href="./">
-            <img src="./images/logo.webp" class="nav_logo" alt="image" />
+            <img loading="lazy" width="55" height="61" src="./images/logo.webp" class="nav_logo" alt="image" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon">
-                <img src="./images/hamburger.svg" class="img-fluid" width="80" height="80" alt="image">
+                <img loading="lazy" src="./images/hamburger.svg" class="img-fluid" width="80" height="80" alt="image">
             </span>
         </button>
         <div class="collapse navbar-collapse flex justify-content-between nav2" id="navbarSupportedContent">
@@ -25,26 +25,26 @@
                             <div class="row align-items-center">
                                 <div class="col-md-4">
                                     <ul class="drop-inner-list ">
-                                        <li><a href="./mobile-app-development"><img src="./images/menu-icons/android-01.webp" class="me-3" alt="image"> Mobile App Development</a></li>
-                                        <li><a href="./web-development"><img src="./images/menu-icons/react-01.webp" class="me-3" alt="image"> Web Development</a></li>
-                                        <li><a href="./game-development"><img src="./images/menu-icons/flutter-01.webp" class="me-3" alt="image">Game Development</a></li>
-                                        <li><a href="./blockchain-development"><img src="./images/menu-icons/blockchain-01.webp" class="me-3" alt="image"> Blockchain Development</a></li>
-                                        <li><a href="./creative-branding"><img src="./images/menu-icons/custom-01.webp" class="me-3" alt="image">Creative Branding</a></li>
-                                        <li><a href="./augmented-reality"><img src="./images/menu-icons/ui-ux-01.webp" class="me-3" alt="image">Augmented Reality</a></li>
-                                        <li><a href="./digital-marketing"><img src="./images/menu-icons/web-01.webp" class="me-3" alt="image">Digital Marketing</a></li>
+                                        <li><a href="./mobile-app-development"><img width="30" height="34" loading="lazy" src="./images/menu-icons/android-01.webp" class="me-3" alt="image"> Mobile App Development</a></li>
+                                        <li><a href="./web-development"><img width="30" height="34" loading="lazy" src="./images/menu-icons/react-01.webp" class="me-3" alt="image"> Web Development</a></li>
+                                        <li><a href="./game-development"><img width="30" height="34" loading="lazy" src="./images/menu-icons/flutter-01.webp" class="me-3" alt="image">Game Development</a></li>
+                                        <li><a href="./blockchain-development"><img width="30" height="34" loading="lazy" src="./images/menu-icons/blockchain-01.webp" class="me-3" alt="image"> Blockchain Development</a></li>
+                                        <li><a href="./creative-branding"><img width="30" height="34" loading="lazy" src="./images/menu-icons/custom-01.webp" class="me-3" alt="image">Creative Branding</a></li>
+                                        <li><a href="./augmented-reality"><img width="30" height="34" loading="lazy" src="./images/menu-icons/ui-ux-01.webp" class="me-3" alt="image">Augmented Reality</a></li>
+                                        <li><a href="./digital-marketing"><img width="30" height="34" loading="lazy" src="./images/menu-icons/web-01.webp" class="me-3" alt="image">Digital Marketing</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-4">
                                     <ul class="drop-inner-list drop-inner-2">
-                                        <li><a href="./cloud-computing"><img src="./images/menu-icons/cloud-01.webp" class="me-3" alt="image"> Cloud Computing</a></li>
-                                        <li><a href="./virtual-reality"><img src="./images/menu-icons/vr-01.webp" class="me-3" alt="image"> Virtual Reality</a></li>
-                                        <li><a href="./iot-app-development-service"><img src="./images/menu-icons/IOT-01-1.webp" class="me-3" alt="image"> IoT App Development</a></li>
-                                        <li><a href="./frontend-development"><img src="./images/menu-icons/front-end-01.webp" class="me-3" alt="image"> Front End Development</a></li>
+                                        <li><a href="./cloud-computing"><img width="30" height="34" loading="lazy" src="./images/menu-icons/cloud-01.webp" class="me-3" alt="image"> Cloud Computing</a></li>
+                                        <li><a href="./virtual-reality"><img width="30" height="34" loading="lazy" src="./images/menu-icons/vr-01.webp" class="me-3" alt="image"> Virtual Reality</a></li>
+                                        <li><a href="./iot-app-development-service"><img loading="lazy" src="./images/menu-icons/IOT-01-1.webp" class="me-3" alt="image"> IoT App Development</a></li>
+                                        <li><a href="./frontend-development"><img width="30" height="34" loading="lazy" src="./images/menu-icons/front-end-01.webp" class="me-3" alt="image"> Front End Development</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="dropdown-video-wrap d-none d-md-block">
-                                        <img src="./images/dropdown-img.webp" class="img-fluid" alt="image">
+                                        <img width="496" height="398"  loading="lazy" src="./images/dropdown-img.webp" class="img-fluid" alt="image">
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +65,7 @@
                             <div class="row align-items-center">
                                 <div class="col-md-4">
                                     <ul class="drop-inner-list ">
-                                        <li><a href="https://diginsy.com/blog/"><img src="./images/menu-icons/android-01.webp" class="me-3" alt="image">Blog</a></li>
+                                        <li><a href="https://diginsy.com/blog/"><img loading="lazy" src="./images/menu-icons/android-01.webp" class="me-3" alt="image">Blog</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -13,7 +13,7 @@
     </p>
     <div class="row row-gap-5 justify-content-center mt-5">
         <div class="col-lg-4 col-sm-6 col-11 mb-lg-0 mb-4">
-            <img loading="lazy" class="img-fluid mx-md-0 mx-auto pb-4 main-blogs-image" src="./images/blogs/blog-image-1.webp" alt="image" />
+            <img loading="lazy" width="424" height="307" class="img-fluid mx-md-0 mx-auto pb-4 main-blogs-image" src="./images/blogs/blog-image-1.webp" alt="image" />
             <div class="main-bottom-center-content">
                 <p class="fs-4 fw-medium">
                     Coding Language Trends: What to Learn in 2023 for Career Growth
@@ -32,7 +32,7 @@
             </a>
         </div>
         <div class="col-lg-4 col-sm-6 col-11 mb-lg-0 mb-4">
-            <img loading="lazy" class="img-fluid mx-md-0 mx-auto pb-4 main-blogs-image" src="./images/blogs/blog-image-2.webp" alt="image" />
+            <img loading="lazy" width="424" height="307" class="img-fluid mx-md-0 mx-auto pb-4 main-blogs-image" src="./images/blogs/blog-image-2.webp" alt="image" />
             <div class="main-bottom-center-content">
                 <p class="fs-4 fw-medium">
                     Outsourcing Vs In-House Teams Which is Better for Startups
@@ -51,7 +51,7 @@
             </a>
         </div>
         <div class="col-lg-4 col-sm-6 col-11 mb-lg-0 mb-4">
-            <img loading="lazy" class="img-fluid mx-md-0 mx-auto pb-4 main-blogs-image" src="./images/blogs/blog-image-3.webp" alt="image" />
+            <img loading="lazy" width="424" height="307" class="img-fluid mx-md-0 mx-auto pb-4 main-blogs-image" src="./images/blogs/blog-image-3.webp" alt="image" />
             <div class="main-bottom-center-content">
                 <p class="fs-4 fw-medium text-justify">
                     Know How Website Designs Can Boost Your Business

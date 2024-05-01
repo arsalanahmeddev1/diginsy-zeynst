@@ -22,10 +22,10 @@ include "include/head.php"; ?>
         </button>
       </div>
       <div class="col-lg-5 position-relative">
-        <img loading="lazy" src="./images/home/banner_ar.webp" class="flip_image position-relative z-3" alt="image" />
-        <img loading="lazy" src="./images/home/circle.webp" class="position-absolute z-1 circle_banner move-left-right" alt="image" />
-        <img loading="lazy" src="./images/home/orange_circle.webp" class="position-absolute z-2 orange_circle d-lg-block d-none zoom-in-out" alt="image" />
-        <img loading="lazy" src="./images/home/orange_box.webp" class="position-absolute z-2 orange_box d-lg-block d-none zoom-in-out" alt="image" />
+        <img loading="lazy" src="./images/home/banner_ar.webp" width="550" class="flip_image position-relative z-3" alt="image" />
+        <img loading="lazy" src="./images/home/circle.webp" width="550" class="position-absolute z-1 circle_banner move-left-right" alt="image" />
+        <img loading="lazy" src="./images/home/orange_circle.webp" width="200" class="position-absolute z-2 orange_circle d-lg-block d-none zoom-in-out" alt="image" />
+        <img loading="lazy" src="./images/home/orange_box.webp" width="200" class="position-absolute z-2 orange_box d-lg-block d-none zoom-in-out" alt="image" />
       </div>
     </div>
   </section>
@@ -46,13 +46,8 @@ include "include/head.php"; ?>
         creating cutting edge cross platform apps to solve everyday problems, simplify frustrating activities, </span>and bring endless enjoyment into the palm of your hand. Founded by a team of hardened tech veterans familiar with the twists and turns of cross platform app development, we stand out from the growing crowd of mobile app development companies with fierce pride in professionalism and perfectionism to design, program, and deploy top tier mobile apps.
     </p>
     <div class="position-relative my-md-5 my-1 video-wrapper">
-      <video controls id="video" preload="metadata" poster="./images/home/video_tb.webp" style="max-width: 1294px;">
+      <video controls width="640" height="320" id="video" preload="metadata" poster="./images/home/video_tb.webp" style="max-width: 1294px;">
         <source src="./videos/diginsy.mp4" type="video/mp4">
-      </video>
-
-      <video width="640" height="320" controls id="myVideo" style="display:none;">
-        <source src="./videos/diginsy.mp4" type="video/mp4">
-        Your browser doesn't support HTML5 video tag.
       </video>
       <div class="opacity-75 bg-black position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center" id="video-overlay">
         <div class="d-flex gap-1 align-items-center position-relative">
@@ -131,8 +126,8 @@ include "include/head.php"; ?>
                   <h6 class="hd-ssm mb-30">Deliever Favorite Food</h6>
                   <h4 class="fw-semibold fs-70">Food Ninja <br> Mobile App</h4>
                   <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
-                    <img loading="lazy" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
-                    <img loading="lazy" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
                   </div>
                 </div>
               </div>
@@ -150,8 +145,8 @@ include "include/head.php"; ?>
                   </div>
                   <h4 class="fw-semibold fs-70">Finance <br> Mobile App</h4>
                   <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
-                    <img loading="lazy" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
-                    <img loading="lazy" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68"  src="./images/home/gplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
                   </div>
                 </div>
               </div>
@@ -169,8 +164,8 @@ include "include/head.php"; ?>
                   </div>
                   <h4 class="fw-semibold fs-70">Ecommerce <br> Mobile App</h4>
                   <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
-                    <img loading="lazy" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
-                    <img loading="lazy" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
                   </div>
                 </div>
               </div>
@@ -188,8 +183,8 @@ include "include/head.php"; ?>
                   </div>
                   <h4 class="fw-semibold fs-70">Coffee Shop <br> Mobile App</h4>
                   <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
-                    <img loading="lazy" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
-                    <img loading="lazy" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
                   </div>
                 </div>
               </div>
@@ -483,7 +478,7 @@ include "include/head.php"; ?>
                 <div class="col-lg-7 col-md-5 ">
                   <div style="max-width: max-content;" class="position-relative">
 
-                    <img loading="lazy" loading="lazy" src="./images/home/faq/faq1/2.webp" class="acc_main_img" width="346" alt="image" />
+                    <img loading="lazy" loading="lazy"  src="./images/home/faq/faq1/2.webp" class="acc_main_img" width="346" alt="image" />
                     <img loading="lazy" loading="lazy" src="./images/home/orange_circle.webp" class="right_circle_1 zoom-in-out-circle" width="20" height="20" alt="image">
                     <img loading="lazy" loading="lazy" src="./images/home/orange_circle.webp" class="right_circle_2 zoom-in-out-circle" width="20" height="20" alt="image">
                     <img loading="lazy" loading="lazy" src="./images/home/orange_circle.webp" class="right_circle_3 zoom-in-out-circle" width="20" height="20" alt="image">
@@ -637,7 +632,7 @@ include "include/head.php"; ?>
     </p>
     <div class="mx-auto row gap-xxl-5 gap-md-4 gap-2 justify-content-lg-center align-items-center partner_box_row" style="max-width: 1000px">
       <div class="col-md-5 col-12 d-flex partner_box justify-content-start align-items-start gap-2">
-        <img loading="lazy" src="./images/home/stack.svg" class="img-fluid" style="max-width: 50px" alt="image" />
+        <img loading="lazy" src="./images/home/stack.svg" width="50" height="50" class="img-fluid" style="max-width: 50px" alt="image" />
         <div class="">
           <p class="big_para fw-medium mb-2">Strategic Partnership</p>
           <p class="fs-6">
@@ -646,7 +641,7 @@ include "include/head.php"; ?>
         </div>
       </div>
       <div class="col-md-5 col-12 d-flex partner_box justify-content-start align-items-start gap-2">
-        <img loading="lazy" src="./images/home/ribbon.svg" class="img-fluid" style="max-width: 50px" alt="image" />
+        <img loading="lazy" src="./images/home/ribbon.svg" width="50" height="50" class="img-fluid" style="max-width: 50px" alt="image" />
         <div class="">
           <p class="big_para fw-medium mb-2">Technical Excellence</p>
           <p class="fs-6">
@@ -655,7 +650,7 @@ include "include/head.php"; ?>
         </div>
       </div>
       <div class="col-md-5 col-12 d-flex partner_box justify-content-start align-items-start gap-2">
-        <img loading="lazy" src="./images/home/cycle.svg" class="img-fluid" style="max-width: 50px" alt="image" />
+        <img loading="lazy" src="./images/home/cycle.svg" width="50" height="50" class="img-fluid" style="max-width: 50px" alt="image" />
         <div class="">
           <p class="big_para fw-medium mb-2">Client-Centric Approach</p>
           <p class="fs-6">
@@ -664,7 +659,7 @@ include "include/head.php"; ?>
         </div>
       </div>
       <div class="col-md-5 col-12 d-flex partner_box justify-content-start align-items-start gap-2">
-        <img loading="lazy" src="./images/home/dolar.svg" class="img-fluid" style="max-width: 50px" alt="image" />
+        <img loading="lazy" src="./images/home/dolar.svg" width="50" height="50" class="img-fluid" style="max-width: 50px" alt="image" />
         <div class="">
           <p class="big_para fw-medium mb-2">Innovation and Agility</p>
           <p class="fs-6">
@@ -687,11 +682,11 @@ include "include/head.php"; ?>
       impact and believability.
     </p>
     <div class="partner_Slider mt-md-5 mt-3 gap-4 d-flex justify-content-lg-between justify-content-center align-items-center">
-      <img loading="lazy" loading="lazy" src="./images/home/business/ios-developers.webp" alt="image" />
-      <img loading="lazy" loading="lazy" src="./images/home/business/roku.webp" alt="image" />
-      <img loading="lazy" loading="lazy" src="./images/home/business/google-developers.webp" alt="image" />
-      <img loading="lazy" loading="lazy" src="./images/home/business/microsoft.webp" alt="image" />
-      <img loading="lazy" loading="lazy" src="./images/home/business/aws.webp" alt="image" />
+      <img loading="lazy" width="178" height="81" src="./images/home/business/ios-developers.webp" alt="image" />
+      <img loading="lazy" width="178" height="81" src="./images/home/business/roku.webp" alt="image" />
+      <img loading="lazy" width="178" height="81" src="./images/home/business/google-developers.webp" alt="image" />
+      <img loading="lazy" width="178" height="81" src="./images/home/business/microsoft.webp" alt="image" />
+      <img loading="lazy" width="178" height="81" src="./images/home/business/aws.webp" alt="image" />
     </div>
   </section>
   <div class="serve">

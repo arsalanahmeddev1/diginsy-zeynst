@@ -14,7 +14,7 @@
             <div class="col-md-4">
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/ecommerce-basket.svg" alt="image">
+                        <img width="40" height="40" src="./images/ecommerce-basket.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">E-Commerce</h5>
@@ -22,7 +22,7 @@
                 </div>
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/bank-finance.svg" alt="image">
+                        <img width="40" height="40" src="./images/bank-finance.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Banking & Finance</h5>
@@ -30,7 +30,7 @@
                 </div>
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/real-state.svg" alt="image">
+                        <img width="40" height="40" src="./images/real-state.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Real Estate</h5>
@@ -40,7 +40,7 @@
             <div class="col-md-4">
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/health-icon.svg" alt="image">
+                        <img width="40" height="40" src="./images/health-icon.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Healthcare & Medicine</h5>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/logistics-icon.svg" alt="image">
+                        <img width="40" height="40" src="./images/logistics-icon.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Logistics & Procurement</h5>
@@ -56,7 +56,7 @@
                 </div>
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/restaurants-icon.svg" alt="image">
+                        <img width="40" height="40" src="./images/restaurants-icon.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Restaurants</h5>
@@ -66,7 +66,7 @@
             <div class="col-md-4">
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/travel-icon.svg" alt="image">
+                        <img width="40" height="40" src="./images/travel-icon.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Travel & Tourism</h5>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/entertainment-icon.svg" alt="image">
+                        <img width="40" height="40" src="./images/entertainment-icon.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Entertainment</h5>
@@ -82,7 +82,7 @@
                 </div>
                 <div class="mad-busniess-icon-parent d-flex align-items-center  mb-70">
                     <div class="mad-busniess-icon-wrap d-flex justify-content-center align-items-center me-3">
-                        <img src="./images/gaming-icon.svg" alt="image">
+                        <img width="40" height="40" src="./images/gaming-icon.svg" alt="image">
                     </div>
                     <div>
                         <h5 class="fs-22 dim-black">Gaming</h5>
