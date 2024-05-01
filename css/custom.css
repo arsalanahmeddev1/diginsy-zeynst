@@ -314,9 +314,7 @@ h2 span {
 .nav2 {
   max-width: 950px;
 }
-.banner_bg_color {
-  background: #f9f9f9;
-}
+
 .orange_text {
   color: #ff5b46;
 }
@@ -345,64 +343,11 @@ h2 span {
   transition: 0.3s all ease-in-out;
   border-radius: 8px !important;
 }
-.bg_navbar {
-  background: #ffffff;
-  border-radius: 7px;
-  padding: 15px 30px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-}
-nav ul li {
-  font-weight: 600;
-  color: #222222;
-}
-.nav_logo {
-  max-width: 55px;
-}
-.nav-link {
-  color: #222222 !important;
-}
-.nav-link:hover {
-  color: #ff5b46 !important;
-}
-.banner_content h1 {
-  font-weight: 600;
-  font-size: 55px;
-  line-height: 85px;
-  color: #222222;
-  opacity: 1;
-  text-shadow: 3px 3px 0 #bebebe, 3px 3px 0 #424242,
-    3px 3px 0 rgb(255 255 255 / 30%), 4px 3px rgb(255 255 255 / 30%),
-    4px 4px rgb(255 255 255 / 30%) !important;
-}
-.banner_content h1 span {
-  color: #ff5b46;
-}
-.flip_image {
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-  height: 522px;
-  object-fit: cover;
-  width: 100%;
-  z-index: 3;
-}
-.circle_banner {
-  left: 10%;
-  bottom: 10px;
-  opacity: 0.5;
-  width: 100%;
-  max-width: 550px;
-  z-index: 1;
-}
-.orange_circle {
-  max-width: 160px;
-  left: -14%;
-  top: 1%;
-}
-.orange_box {
-  max-width: 170px;
-  bottom: 2%;
-  left: -16%;
-}
+
+
+
+
+
 .counter {
   color: #ff5b46;
   text-shadow: 3px 3px 0 #ffffff, 3px 3px 0 #686868, 3px 3px 0 rgb(72 72 72),
@@ -1233,10 +1178,7 @@ button.portfolio_btn svg,
 .drop-inner-list img {
   max-width: 30px;
 }
-.bg_navbar {
-  padding-top: 12px !important;
-  padding-bottom: 12px !important;
-}
+
 .drop-inner-list a {
   padding-bottom: 0 !important;
 }
@@ -1389,18 +1331,7 @@ button.portfolio_btn svg,
   .acc_main_img {
     max-width: 200px !important;
   }
-  .flip_image {
-    height: auto;
-    object-fit: cover;
-    width: 100%;
-    z-index: 3;
-  }
-  .circle_banner {
-    left: 15%;
-    bottom: 2%;
-    width: 100%;
-    max-width: 380px;
-  }
+ 
   .slider_bg {
     height: 100% !important;
     width: 100%;

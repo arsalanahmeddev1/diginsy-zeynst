@@ -2,6 +2,99 @@
 $pageTitle = "Custom Application Development Company In USA - Diginsy";
 $pageDescription = "Experience top-notch application development services in USA with Diginsy, that empower businesses with cutting-edge solutions to drive growth and success.";
 include "include/head.php"; ?>
+<style>
+  .banner_bg_color {
+    background: #f9f9f9;
+  }
+
+  .bg_navbar {
+    background: #ffffff;
+    border-radius: 7px;
+    padding: 15px 30px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+
+  .bg_navbar {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+  }
+
+  nav ul li {
+    font-weight: 600;
+    color: #222222;
+  }
+
+  .nav_logo {
+    max-width: 55px;
+  }
+
+  .nav-link {
+    color: #222222 !important;
+  }
+
+  .nav-link:hover {
+    color: #ff5b46 !important;
+  }
+
+  .banner_content h1 {
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 85px;
+    color: #222222;
+    opacity: 1;
+    text-shadow: 3px 3px 0 #bebebe, 3px 3px 0 #424242,
+      3px 3px 0 rgb(255 255 255 / 30%), 4px 3px rgb(255 255 255 / 30%),
+      4px 4px rgb(255 255 255 / 30%) !important;
+  }
+
+  .banner_content h1 span {
+    color: #ff5b46;
+  }
+
+  .circle_banner {
+    left: 10%;
+    bottom: 10px;
+    opacity: 0.5;
+    width: 100%;
+    max-width: 550px;
+    z-index: 1;
+  }
+
+  .orange_circle {
+    max-width: 160px;
+    left: -14%;
+    top: 1%;
+  }
+
+  .orange_box {
+    max-width: 170px;
+    bottom: 2%;
+    left: -16%;
+  }
+  .flip_image {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  height: 522px;
+  object-fit: cover;
+  width: 100%;
+  z-index: 3;
+}
+@media (max-width: 768px) {
+  .flip_image {
+    height: auto;
+    object-fit: cover;
+    width: 100%;
+    z-index: 3;
+  }
+  .circle_banner {
+    left: 15%;
+    bottom: 2%;
+    width: 100%;
+    max-width: 380px;
+  }
+}
+</style>
+
 <body>
   <section class="pt-lg-3 pt-0 banner_bg_color">
     <?php include "include/header.php"; ?>
@@ -145,7 +238,7 @@ include "include/head.php"; ?>
                   </div>
                   <h4 class="fw-semibold fs-70">Finance <br> Mobile App</h4>
                   <div class="d-flex gap-4 justify-content-md-start justify-content-center align-items-center portfolio_button mb-md-20 d-sm-flex">
-                    <img loading="lazy" width="165" height="68"  src="./images/home/gplay.svg" class="img-fluid" alt="image" />
+                    <img loading="lazy" width="165" height="68" src="./images/home/gplay.svg" class="img-fluid" alt="image" />
                     <img loading="lazy" width="165" height="68" src="./images/home/iosplay.svg" class="img-fluid" alt="image" />
                   </div>
                 </div>
@@ -469,7 +562,7 @@ include "include/head.php"; ?>
             <div class="w-100 tab-pane fade show active" id="accordion-one" role="tabpanel" aria-labelledby="accordion-one-tab">
               <div class="w-100 d-flex justify-content-md-between justify-content-center gap-md-2 gap-5">
                 <div class="col-lg-5 col-md-3 d-flex flex-column">
-                  <img loading="lazy" loading="lazy" src="./images/home/faq/faq1/1.webp"  width="125" alt="image" class="zoom-in-out img_1" />
+                  <img loading="lazy" loading="lazy" src="./images/home/faq/faq1/1.webp" width="125" alt="image" class="zoom-in-out img_1" />
                   <img loading="lazy" loading="lazy" src="./images/home/faq/faq1/circle.webp" width="125" alt="image" class="zoom-in-out my-2 circle_img" />
                   <div class="rightAlign_img">
                     <img loading="lazy" loading="lazy" src="./images/home/faq/faq1/1.webp" width="125" alt="image" class="zoom-in-out my-2 img_2" />
@@ -478,7 +571,7 @@ include "include/head.php"; ?>
                 <div class="col-lg-7 col-md-5 ">
                   <div style="max-width: max-content;" class="position-relative">
 
-                    <img loading="lazy" loading="lazy"  src="./images/home/faq/faq1/2.webp" class="acc_main_img" width="346" alt="image" />
+                    <img loading="lazy" loading="lazy" src="./images/home/faq/faq1/2.webp" class="acc_main_img" width="346" alt="image" />
                     <img loading="lazy" loading="lazy" src="./images/home/orange_circle.webp" class="right_circle_1 zoom-in-out-circle" width="20" height="20" alt="image">
                     <img loading="lazy" loading="lazy" src="./images/home/orange_circle.webp" class="right_circle_2 zoom-in-out-circle" width="20" height="20" alt="image">
                     <img loading="lazy" loading="lazy" src="./images/home/orange_circle.webp" class="right_circle_3 zoom-in-out-circle" width="20" height="20" alt="image">

@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Viga&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Viga&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Viga&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 html {
   overflow-x: hidden;
 }
@@ -1366,6 +1366,11 @@ video::-webkit-media-controls-enclosure {
 .portdolio-banner .arrow {
   bottom: -11%;
 }
+.other-screens-sec,
+.final-product-sec,
+.typography-sec {
+  padding-bottom: 150px;
+}
 @media (min-width: 1900px) and (max-width: 1930px) {
   .main-form-input {
     height: 76.12px;
@@ -1494,11 +1499,7 @@ video::-webkit-media-controls-enclosure {
     height: auto;
     object-fit: contain;
   }
-  .other-screens-sec,
-  .final-product-sec,
-  .typography-sec {
-    padding-bottom: 150px;
-  }
+
   .iot-add-dev-service-banner img {
     bottom: 96px;
     right: 57px;
@@ -2276,8 +2277,7 @@ video::-webkit-media-controls-enclosure {
   }
   .portfolio-slide-1.food-ninja-cover-img.first-cover-img {
     margin-bottom: 0px;
-}
-
+  }
 }
 @media (max-width: 575px) {
   .bg-text-light {
